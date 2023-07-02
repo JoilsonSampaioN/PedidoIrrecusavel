@@ -1,4 +1,3 @@
-Pedido Irrecusável de Sushi
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/800px-Sushi_platter.jpg" alt="Imagem de sushi">
 </p>
