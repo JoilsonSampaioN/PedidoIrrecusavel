@@ -1,6 +1,6 @@
 Pedido Irrecusável de Sushi
 <p align="center">
-  <img src="https://example.com/path/to/sushi-image.png" alt="Imagem de sushi">
+  <img src="[https://example.com/path/to/sushi-image.png](https://diariodorio.com/wp-content/uploads/2023/02/DSC1582alfinal2-FOTO-COMBINADO-DIVINO-30-PECAS-CREDITO-Alexander-Landau-scaled.jpg)" alt="Imagem de sushi">
 </p>
 Bem-vindo(a) ao meu incrível projeto "Pedido Irrecusável de Sushi"! 😄
 
